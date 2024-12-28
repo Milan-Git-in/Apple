@@ -12,4 +12,6 @@ This repository contains a clone of Apple's iPhone 15 Pro website, built using:
 
 #### ⭐ If you like this project, don’t forget to give it a star!
 
+#### Project was Done as a Project Based Learning Approach
+
 #### Inspired by [JavaScript Mastery on YouTube](https://www.youtube.com/@javascriptmastery).
