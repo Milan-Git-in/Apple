@@ -7,7 +7,7 @@ import Chip from "./components/Chip"
 import Footer from "./components/Footer"
 const App = () => {
   return (
-    <main className="bg-black">
+    <main className="bg-black overflow-x-hidden">
       <Navbar/>
       <Hero/>
       <Highlights/>
